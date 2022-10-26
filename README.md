@@ -1,34 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Luchy-B
-microverseinc /
-readme-template
-Public template
-
-Code
-Issues 3
-Pull requests 4
-Actions
-Projects
-Security
-
-    Insights
-
-readme-template/README.md
-@nidalaa
-nidalaa Add explanation about licences
-Latest commit 1016434 on Aug 5
-History
-4 contributors
-@nidalaa
-@davidauza-engineer
-@kethinov
-@fernandorpm
-75 lines (40 sloc) 1.76 KB
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
@@ -103,20 +72,3 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./LICENSE) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-readme-template/README.md at master · microverseinc/readme-template
